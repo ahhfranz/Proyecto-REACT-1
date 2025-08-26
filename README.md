@@ -1,4 +1,4 @@
-# Proyecto #1 - HAVEN SHOP 🛍️💍
+# Proyecto #1 - HAVEN SHOP 🛍️
 
 Sitio web responsive dedicado a un e-Commerce ficticio de remeras, presentado como mi proyecto número 1 para CODERHOUSE - REACT.
 
