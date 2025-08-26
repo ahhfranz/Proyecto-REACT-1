@@ -8,6 +8,7 @@ Sitio web responsive dedicado a un e-Commerce ficticio de remeras, presentado co
 
 ## 🛠 Tecnologías utilizadas
 
+- ✅ REACT
 - ✅ HTML5
 - ✅ Flexbox y CSS
 - ✅ JavaScript
